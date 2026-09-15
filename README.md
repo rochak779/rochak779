@@ -6,6 +6,8 @@ I built the featured products below independently, from product concept through 
 
 Based in London.
 
+[Connect with me on LinkedIn](https://www.linkedin.com/in/rochak-agarwal/)
+
 ## Featured products
 
 ### [WinBack](https://github.com/rochak779/winback-final) — first-pass diligence for private equity teams
@@ -37,5 +39,3 @@ Panchnama is an independent prototype for documenting issues across an observed 
 - [My Comic Maker](https://github.com/rochak779/mycomicmaker) — AI-assisted comic creation from stories and photos.
 - [Chatastrophe](https://github.com/rochak779/Chatastrophe) — a private, browser-based recap of WhatsApp exports.
 - [ArthSetu](https://github.com/rochak779/arthsetu) — a hackathon prototype for portfolio-aware investing insights.
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/rochak-agarwal/)
