@@ -1,6 +1,6 @@
 # Rochak Agarwal
 
-I build AI products around learning, care, risk, and complex decisions. I care about clear workflows, usable interfaces, and making the limits of automation visible.
+I build products.
 
 I built the featured products below independently, from product concept through implementation.
 
