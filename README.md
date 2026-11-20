@@ -28,7 +28,7 @@ Marg turns AI learning into short lessons, guided practice, and feedback on real
 
 ### [MamaRoo](https://github.com/rochak779/MamaRoo) — a daily companion for pregnant women in India
 
-MamaRoo brings together daily check-ins, care records, and a doctor-visit summary in English and Hindi. Its guide chatbot retrieves reviewed passages rather than generating medical advice. The product is in active development and has 15 early users.
+MamaRoo brings together daily check-ins, care records, and a doctor-visit summary in English and Hindi. Its guide chatbot retrieves reviewed passages rather than generating medical advice. It is live and used by 5 moms.
 
 **My role:** Sole product builder.
 
