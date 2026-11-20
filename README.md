@@ -1,68 +1,87 @@
 # Rochak Agarwal
 
-I build products.
+Senior AI Product Manager & Builder in London. I take messy problems and turn them into shipped products.
 
-I built the featured products below independently, from product concept through implementation.
+At Wipro, I lead AI and Open Banking products for a UK bank, used by 10 million+ people. On my own, I build for problems I've seen up close. Each product below is a solo build, from idea to live product.
 
-Based in London.
+[Portfolio](https://www.rochakagarwal.com/?r=github) · [LinkedIn](https://www.linkedin.com/in/rochak-agarwal/) · [Résumé](https://www.rochakagarwal.com/Rochak%20Agarwal.pdf)
 
-[Portfolio](https://www.rochakagarwal.com/?r=github) · [LinkedIn](https://www.linkedin.com/in/rochak-agarwal/)
+## Products I've built on my own
 
-## Featured products
+### [The Payer](https://github.com/rochak779/the-payer): spending rules for an AI shopping agent
 
-### [UK Open Banking RAG](https://github.com/rochak779/open-banking-rag) — cited answers across Open Banking law and the API spec
+Plain-English spending rules for an AI shopping agent, with human approval when needed and a final payment check. Built for the PayPal AI Hackathon, October 2026.
 
-Ask a question about UK Open Banking and get an answer that cites both the regulation and the API endpoint, or a clear "the sources don't cover this". Measured on a 40-question evaluation set: it declined 10 of 10 unanswerable questions in every run, and fixing the search routing took answerable questions sent to the right sources from 21 to 26 of 30.
+**Status:** Working demo with test payments.
 
-**My role:** Sole product builder.
+[Try the sandbox demo](https://the-payer.onrender.com) · [Case study](https://www.rochakagarwal.com/projects/the-payer?r=github)
 
-[Try it](https://openbanking.streamlit.app/) · [Read the case study](https://github.com/rochak779/open-banking-rag/blob/main/docs/case-study.md)
+### [Open Banking RAG](https://github.com/rochak779/open-banking-rag): every answer cited, or an honest no
 
-### [Marg](https://github.com/rochak779/marg) — practical AI learning for non-technical professionals
+Ask a question about UK Open Banking. Get an answer you can check, or an honest "the sources don't cover this".
 
-Marg turns AI learning into short lessons, guided practice, and feedback on real tasks. It is designed to help people move beyond prompting for one-off answers and build skills they can use at work. Around 100 people have used it.
+**Status:** Live.
 
-**My role:** Sole product builder.
+[Open the demo](https://openbanking.streamlit.app/) · [Case study](https://www.rochakagarwal.com/projects/open-banking-rag?r=github)
 
-[Explore Marg](https://marg-blond.vercel.app/)
+### [Marg](https://github.com/rochak779/marg): learn it, try it, use it at work
 
-### [MamaRoo](https://github.com/rochak779/MamaRoo) — a daily companion for pregnant women in India
+Turn everyday AI use into a skill you can repeat at work. Built for Product Owners.
 
-MamaRoo brings together daily check-ins, care records, and a doctor-visit summary in English and Hindi. Its guide chatbot retrieves reviewed passages rather than generating medical advice. It is live and used by 5 moms.
+**Status:** Live, used by over 100 people.
 
-**My role:** Sole product builder.
+[Open Marg](https://marg-blond.vercel.app/) · [Case study](https://www.rochakagarwal.com/projects/marg?r=github)
 
-[See the site](https://www.mamaroo.co.in/)
+### [MamaRoo](https://github.com/rochak779/MamaRoo): care between appointments
 
-### [Continuum](https://github.com/rochak779/continuum) — continuous vendor risk monitoring
+A pregnancy companion that keeps track of the weeks between doctor visits. For women in India's smaller cities, in English and Hindi.
 
-Continuum tracks changes in vendor status, directors, filings, and document expiries. It brings alerts and vendor records into one place, with an AI assistant that can answer questions using vendor documents.
+**Status:** Live, used by 5 moms.
 
-**My role:** Sole product builder.
+[Open MamaRoo](https://www.mamaroo.co.in/) · [Case study](https://www.rochakagarwal.com/projects/mamaroo?r=github)
 
+### [WinBack](https://github.com/rochak779/winback): every finding, back to its evidence
 
-### [Umeed](https://github.com/rochak779/Umeed) — knowing when to step in for an older parent
+AI that helps a deal analyst check every finding against its source. Built for the Ylookup x Encode AI Hackathon, September 2026.
 
-Umeed notices when an older parent who lives independently misses a daily routine, checks in gently, and asks a trusted neighbour or family member to respond. One tap on "I'm handling this" tells everyone else it's covered. The parent controls who can see what, and the build has real accounts, consent and escalation, with calls and texts still simulated. Not yet deployed.
+**Status:** Live, with one deal of sample data.
 
-**My role:** Sole product builder.
+[Open WinBack](https://winback-1.vercel.app/) · [Case study](https://www.rochakagarwal.com/projects/winback?r=github)
 
-### [Panchnama](https://github.com/rochak779/panchnama) — evidence-backed public website audits
+### [Continuum](https://github.com/rochak779/continuum): know what changed, act sooner
 
-Panchnama is an independent prototype for documenting issues across an observed set of Assam government websites. Findings cite dated evidence, uncertainty stays visible, and people review judgments before publication.
+Know when something changes about a supplier, before it becomes a problem.
 
-**My role:** Sole product builder.
+**Status:** Live, with sample data.
 
-[Explore the prototype](https://panchnama.vercel.app/)
+[Open Continuum](https://continuum-new-ochre.vercel.app/) · [Case study](https://www.rochakagarwal.com/projects/continuum?r=github)
+
+### [Umeed](https://github.com/rochak779/Umeed): when a routine is missed, know who's checking in
+
+When an older parent goes quiet, make sure one person checks in, and everyone knows who.
+
+**Status:** Prototype to try out, not yet used by real families.
+
+[Try the prototype](https://umeed-seven.vercel.app/) · [Case study](https://www.rochakagarwal.com/projects/umeed?r=github)
+
+## At work: Wipro, for a UK bank
+
+The code is private, so these link to case studies.
+
+- [Chat with Spend](https://www.rochakagarwal.com/projects/chat-with-spend?r=github): ask about your own money in plain words; it knows which questions it shouldn't answer. Live, used by 10 million+ users.
+- [Open Banking Payments](https://www.rochakagarwal.com/projects/open-banking-payments?r=github): move money between your own accounts, and always know when it moves. £1.8 billion moved in its first nine months.
+- [Account Aggregation](https://www.rochakagarwal.com/projects/account-aggregation?r=github): every account, one view, still true. Live, used by 1.2 million users.
+- [Trusted Person Access](https://www.rochakagarwal.com/projects/trusted-person-access?r=github): help from someone you trust, while control stays with you. Live, used by 10,000+ users.
+- [Developer Portal](https://www.rochakagarwal.com/projects/developer-portal?r=github): the front door for companies building on the bank's Open Banking APIs. Live since 2023.
 
 ## Other things I've built
 
-- [WinBack](https://github.com/rochak779/Winback-1) — evidence-linked first-pass diligence for private equity teams; [watch the demo](https://youtu.be/AXVH13EHEqU).
-- [CC’d](https://github.com/rochak779/ccd) — a prototype for turning diligence email into evidence-linked tracker proposals.
-- [My Comic Maker](https://github.com/rochak779/mycomicmaker) — AI-assisted comic creation from stories and photos.
-- [Chatastrophe](https://github.com/rochak779/Chatastrophe) — a private, browser-based recap of WhatsApp exports.
-- [ArthSetu](https://github.com/rochak779/arthsetu) — a hackathon prototype for portfolio-aware investing insights.
-- [Roast My Page](https://github.com/rochak779/roastmypage) — AI-powered feedback on a website's design, copy, and UX.
-- [Give Me a Prompt](https://github.com/rochak779/givemeaprompt) — a community site for sharing and discovering prompts.
-- [Games](https://github.com/rochak779/Games) — five 90s-style desi browser games, plus a daily Bollywood dialogue puzzle.
-- [AI Agents](https://github.com/rochak779/AI-Agents) — workflow and content-generation agent experiments.
+- [Panchnama](https://github.com/rochak779/panchnama): an evidence-backed audit prototype for an observed set of Assam government websites; [explore it](https://panchnama.vercel.app/).
+- [CC’d](https://github.com/rochak779/ccd): a prototype for turning diligence email into evidence-linked tracker proposals.
+- [My Comic Maker](https://github.com/rochak779/mycomicmaker): AI-assisted comic creation from stories and photos.
+- [Chatastrophe](https://github.com/rochak779/Chatastrophe): a private, browser-based recap of WhatsApp exports.
+- [ArthSetu](https://github.com/rochak779/arthsetu): a hackathon prototype for portfolio-aware investing insights.
+- [Roast My Page](https://github.com/rochak779/roastmypage): AI-powered feedback on a website's design, copy, and UX.
+- [Give Me a Prompt](https://github.com/rochak779/givemeaprompt): a community site for sharing and discovering prompts.
+- [Games](https://github.com/rochak779/Games): five 90s-style desi browser games, plus a daily Bollywood dialogue puzzle. [Play them](https://www.rochakagarwal.com/?r=github#playground).
+- [AI Agents](https://github.com/rochak779/AI-Agents): workflow and content-generation agent experiments.
