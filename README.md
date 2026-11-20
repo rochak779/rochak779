@@ -6,7 +6,7 @@ I built the featured products below independently, from product concept through 
 
 Based in London.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/rochak-agarwal/)
+[Portfolio](https://www.rochakagarwal.com) · [LinkedIn](https://www.linkedin.com/in/rochak-agarwal/)
 
 ## Featured products
 
